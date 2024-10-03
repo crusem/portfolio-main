@@ -16,7 +16,7 @@
   <Image baseUrl="/mmmap/" className = image-container alt="Description of your image" />
 </div>
 <p>
-  MMMap is a tool that reads every track in your Spotify library, and creates a heatmap based on the birthplace of artists who contributed to the track.
+  MMMap :) is a tool that reads every track in your Spotify library, and creates a heatmap based on the birthplace of artists who contributed to the track.
 </p>
 
 <p>
